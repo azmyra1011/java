@@ -1,0 +1,36 @@
+body{
+    background-color: #EFF1DB;
+}
+
+nav {
+    background-color: #C26DBC;
+    color: white;
+    padding-right: 100px;
+    box-sizing: content-box;
+}
+
+/* carousel button */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(45%) sepia(35%) saturate(300%) hue-rotate(270deg);
+}
+
+/* container style */
+.container{
+    padding: 50px;
+}
+
+.card{
+    background-color: #C26DBC;
+    color: white;
+}
+
+.custom-btn{
+    background-color: #C8F4F9;
+}
+
+footer{
+    background-color: #C26DBC;
+    
+}
+
