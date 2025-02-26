@@ -34,3 +34,17 @@ footer{
     
 }
 
+fieldset {
+    width: 300px;         
+    padding: 1em;
+  }
+  
+  legend {
+    font-weight: bold;    
+    text-align: center;  
+  }
+
+
+  
+
+
